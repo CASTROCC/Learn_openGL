@@ -1,0 +1,4 @@
+/Users/lenkacc/Downloads/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug
