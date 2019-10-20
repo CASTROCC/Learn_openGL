@@ -28,6 +28,7 @@
 #include "src/chapter_02/lession_03_chapter2_Materials.hpp"
 #include "src/chapter_02/lession_04_chapter2_LightMaps.hpp"
 #include "src/chapter_02/lession_05_chapter2_Light.hpp"
+#include "src/chapter_02/lession_06_chapter2_MuplityLight.hpp"
 
 using namespace template_camera;
 using namespace lession_01_chapter02_light;
@@ -35,6 +36,7 @@ using namespace lession_02_chapter02_Pong;
 using namespace lession_03_chapter02_Materials;
 using namespace lession_04_chapter02_LightMaps;
 using namespace lession_05_chapter02_Light;
+using namespace lession_06_chapter2_MuplityLight;
 
 int main() {
 //    std::cout << "Hello, World!" << std::endl;
@@ -55,7 +57,8 @@ int main() {
 //    Pong_lightDemo();
 //    MaterialsDemo();
 //    LightMap_Demo();
-    Light_Demo();
+    Spot_Light_Demo();
+//    muplityLight_Demo();
     return 0;
 
 }

@@ -43,10 +43,10 @@ RM = /Users/lenkacc/Downloads/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remo
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion
+CMAKE_SOURCE_DIR = /Users/lenkacc/Desktop/workSpace/Learn_openGL
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/learnOpenGL_Clion.dir/depend.make
@@ -59,29 +59,29 @@ include CMakeFiles/learnOpenGL_Clion.dir/flags.make
 
 CMakeFiles/learnOpenGL_Clion.dir/libs/glad.c.o: CMakeFiles/learnOpenGL_Clion.dir/flags.make
 CMakeFiles/learnOpenGL_Clion.dir/libs/glad.c.o: ../libs/glad.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/learnOpenGL_Clion.dir/libs/glad.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/learnOpenGL_Clion.dir/libs/glad.c.o   -c /Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/libs/glad.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/learnOpenGL_Clion.dir/libs/glad.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/learnOpenGL_Clion.dir/libs/glad.c.o   -c /Users/lenkacc/Desktop/workSpace/Learn_openGL/libs/glad.c
 
 CMakeFiles/learnOpenGL_Clion.dir/libs/glad.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/learnOpenGL_Clion.dir/libs/glad.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/libs/glad.c > CMakeFiles/learnOpenGL_Clion.dir/libs/glad.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/lenkacc/Desktop/workSpace/Learn_openGL/libs/glad.c > CMakeFiles/learnOpenGL_Clion.dir/libs/glad.c.i
 
 CMakeFiles/learnOpenGL_Clion.dir/libs/glad.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/learnOpenGL_Clion.dir/libs/glad.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/libs/glad.c -o CMakeFiles/learnOpenGL_Clion.dir/libs/glad.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/lenkacc/Desktop/workSpace/Learn_openGL/libs/glad.c -o CMakeFiles/learnOpenGL_Clion.dir/libs/glad.c.s
 
 CMakeFiles/learnOpenGL_Clion.dir/main.cpp.o: CMakeFiles/learnOpenGL_Clion.dir/flags.make
 CMakeFiles/learnOpenGL_Clion.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/learnOpenGL_Clion.dir/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/learnOpenGL_Clion.dir/main.cpp.o -c /Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/learnOpenGL_Clion.dir/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/learnOpenGL_Clion.dir/main.cpp.o -c /Users/lenkacc/Desktop/workSpace/Learn_openGL/main.cpp
 
 CMakeFiles/learnOpenGL_Clion.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/learnOpenGL_Clion.dir/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/main.cpp > CMakeFiles/learnOpenGL_Clion.dir/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lenkacc/Desktop/workSpace/Learn_openGL/main.cpp > CMakeFiles/learnOpenGL_Clion.dir/main.cpp.i
 
 CMakeFiles/learnOpenGL_Clion.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/learnOpenGL_Clion.dir/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/main.cpp -o CMakeFiles/learnOpenGL_Clion.dir/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lenkacc/Desktop/workSpace/Learn_openGL/main.cpp -o CMakeFiles/learnOpenGL_Clion.dir/main.cpp.s
 
 # Object files for target learnOpenGL_Clion
 learnOpenGL_Clion_OBJECTS = \
@@ -97,7 +97,7 @@ learnOpenGL_Clion: CMakeFiles/learnOpenGL_Clion.dir/build.make
 learnOpenGL_Clion: /usr/local/Cellar/glew/2.1.0/lib/libGLEW.2.1.0.dylib
 learnOpenGL_Clion: /usr/local/Cellar/glfw/3.3/lib/libglfw.3.3.dylib
 learnOpenGL_Clion: CMakeFiles/learnOpenGL_Clion.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable learnOpenGL_Clion"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable learnOpenGL_Clion"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/learnOpenGL_Clion.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -110,6 +110,6 @@ CMakeFiles/learnOpenGL_Clion.dir/clean:
 .PHONY : CMakeFiles/learnOpenGL_Clion.dir/clean
 
 CMakeFiles/learnOpenGL_Clion.dir/depend:
-	cd /Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion /Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion /Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug /Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug /Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/CMakeFiles/learnOpenGL_Clion.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/lenkacc/Desktop/workSpace/Learn_openGL /Users/lenkacc/Desktop/workSpace/Learn_openGL /Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug /Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug /Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/CMakeFiles/learnOpenGL_Clion.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/learnOpenGL_Clion.dir/depend
 

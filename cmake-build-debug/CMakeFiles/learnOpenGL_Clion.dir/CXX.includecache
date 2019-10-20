@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/main.cpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/main.cpp
 glad/glad.h
 -
 GLFW/glfw3.h
@@ -22,73 +22,75 @@ glm/gtc/matrix_transform.hpp
 glm/gtc/type_ptr.hpp
 -
 ./src/Utils/Camera.hpp
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/Utils/Camera.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/Utils/Camera.hpp
 src/Utils/Common_Func.hpp
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/Utils/Common_Func.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/Utils/Common_Func.hpp
 ./src/sharderUtils/SharderClass.hpp
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/sharderUtils/SharderClass.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/sharderUtils/SharderClass.hpp
 ./src/Utils/template_Camera.hpp
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/Utils/template_Camera.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/Utils/template_Camera.hpp
 src/chapter_01/lession_1.hpp
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_1.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_1.hpp
 src/chapter_01/lession_2.hpp
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_2.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_2.hpp
 src/exercise/lession02_drawRectangle.hpp
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/exercise/lession02_drawRectangle.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/exercise/lession02_drawRectangle.hpp
 src/chapter_01/lession_3_uniform.hpp
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_3_uniform.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_3_uniform.hpp
 src/chapter_01/lession_3_uniform_2.hpp
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_3_uniform_2.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_3_uniform_2.hpp
 src/chapter_01/lession_3_sharderClassUse.hpp
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_3_sharderClassUse.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_3_sharderClassUse.hpp
 src/chapter_01/lession_4_texture.hpp
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_4_texture.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_4_texture.hpp
 src/chapter_01/lession_4_2texture_mix.hpp
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_4_2texture_mix.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_4_2texture_mix.hpp
 src/chapter_01/lession_5_matrix_trans.hpp
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_5_matrix_trans.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_5_matrix_trans.hpp
 src/chapter_01/lession_6_matrix_coordsystem.hpp
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_6_matrix_coordsystem.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_6_matrix_coordsystem.hpp
 src/chapter_01/lession_7_matrix_lookAt.hpp
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_7_matrix_lookAt.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_7_matrix_lookAt.hpp
 src/chapter_01/lession_8_matrix_selflookAt.hpp
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_8_matrix_selflookAt.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_8_matrix_selflookAt.hpp
 src/chapter_02/lession_01_chapter2_light.hpp
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_02/lession_01_chapter2_light.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_02/lession_01_chapter2_light.hpp
 src/chapter_02/lession_02_chapter2_pongLight.hpp
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_02/lession_02_chapter2_pongLight.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_02/lession_02_chapter2_pongLight.hpp
 src/chapter_02/lession_03_chapter2_Materials.hpp
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_02/lession_03_chapter2_Materials.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_02/lession_03_chapter2_Materials.hpp
 src/chapter_02/lession_04_chapter2_LightMaps.hpp
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_02/lession_04_chapter2_LightMaps.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_02/lession_04_chapter2_LightMaps.hpp
 src/chapter_02/lession_05_chapter2_Light.hpp
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_02/lession_05_chapter2_Light.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_02/lession_05_chapter2_Light.hpp
+src/chapter_02/lession_06_chapter2_MuplityLight.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_02/lession_06_chapter2_MuplityLight.hpp
 
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/Utils/Camera.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/Utils/Camera.hpp
 
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/Utils/Common_Func.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/Utils/Common_Func.hpp
 stb_image.h
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/Utils/stb_image.h
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/Utils/stb_image.h
 string.h
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/Utils/string.h
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/Utils/string.h
 
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/Utils/template_Camera.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/Utils/template_Camera.hpp
 
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_1.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_1.hpp
 
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_2.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_2.hpp
 
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_3_sharderClassUse.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_3_sharderClassUse.hpp
 
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_3_uniform.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_3_uniform.hpp
 
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_3_uniform_2.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_3_uniform_2.hpp
 
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_4_2texture_mix.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_4_2texture_mix.hpp
 
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_4_texture.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_4_texture.hpp
 
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_5_matrix_trans.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_5_matrix_trans.hpp
 glm/glm.hpp
 -
 glm/gtc/matrix_transform.hpp
@@ -96,23 +98,25 @@ glm/gtc/matrix_transform.hpp
 glm/gtc/type_ptr.hpp
 -
 
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_6_matrix_coordsystem.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_6_matrix_coordsystem.hpp
 
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_7_matrix_lookAt.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_7_matrix_lookAt.hpp
 
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_8_matrix_selflookAt.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_8_matrix_selflookAt.hpp
 
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_02/lession_01_chapter2_light.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_02/lession_01_chapter2_light.hpp
 
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_02/lession_02_chapter2_pongLight.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_02/lession_02_chapter2_pongLight.hpp
 
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_02/lession_03_chapter2_Materials.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_02/lession_03_chapter2_Materials.hpp
 
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_02/lession_04_chapter2_LightMaps.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_02/lession_04_chapter2_LightMaps.hpp
 
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_02/lession_05_chapter2_Light.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_02/lession_05_chapter2_Light.hpp
 
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/exercise/lession02_drawRectangle.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_02/lession_06_chapter2_MuplityLight.hpp
+
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/exercise/lession02_drawRectangle.hpp
 stdio.h
 -
 glad/glad.h
@@ -120,11 +124,11 @@ glad/glad.h
 GLFW/glfw3.h
 -
 ../Utils/Common_Func.hpp
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/Utils/Common_Func.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/Utils/Common_Func.hpp
 iostream
 -
 
-/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/sharderUtils/SharderClass.hpp
+/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/sharderUtils/SharderClass.hpp
 string
 -
 fstream

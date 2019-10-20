@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug"/>
+				<Option working_dir="/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug"/>
+				<Option working_dir="/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug"/>
+				<Option working_dir="/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="learnOpenGL_Clion">
-				<Option output="/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/learnOpenGL_Clion" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug"/>
+				<Option output="/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/learnOpenGL_Clion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 learnOpenGL_Clion"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 learnOpenGL_Clion"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="learnOpenGL_Clion/fast">
-				<Option output="/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/learnOpenGL_Clion" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug"/>
+				<Option output="/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/learnOpenGL_Clion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,62 +73,65 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 learnOpenGL_Clion/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 learnOpenGL_Clion/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/libs/glad.c">
+		<Unit filename="/Users/lenkacc/Desktop/workSpace/Learn_openGL/libs/glad.c">
 			<Option target="learnOpenGL_Clion"/>
 		</Unit>
-		<Unit filename="/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/main.cpp">
+		<Unit filename="/Users/lenkacc/Desktop/workSpace/Learn_openGL/main.cpp">
 			<Option target="learnOpenGL_Clion"/>
 		</Unit>
-		<Unit filename="/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/Utils/Camera.hpp">
+		<Unit filename="/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/Utils/Camera.hpp">
 			<Option target="learnOpenGL_Clion"/>
 		</Unit>
-		<Unit filename="/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/Utils/template_Camera.hpp">
+		<Unit filename="/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/Utils/template_Camera.hpp">
 			<Option target="learnOpenGL_Clion"/>
 		</Unit>
-		<Unit filename="/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_3_sharderClassUse.hpp">
+		<Unit filename="/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_3_sharderClassUse.hpp">
 			<Option target="learnOpenGL_Clion"/>
 		</Unit>
-		<Unit filename="/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_4_2texture_mix.hpp">
+		<Unit filename="/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_4_2texture_mix.hpp">
 			<Option target="learnOpenGL_Clion"/>
 		</Unit>
-		<Unit filename="/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_5_matrix_trans.hpp">
+		<Unit filename="/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_5_matrix_trans.hpp">
 			<Option target="learnOpenGL_Clion"/>
 		</Unit>
-		<Unit filename="/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_6_matrix_coordsystem.hpp">
+		<Unit filename="/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_6_matrix_coordsystem.hpp">
 			<Option target="learnOpenGL_Clion"/>
 		</Unit>
-		<Unit filename="/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_7_matrix_lookAt.hpp">
+		<Unit filename="/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_7_matrix_lookAt.hpp">
 			<Option target="learnOpenGL_Clion"/>
 		</Unit>
-		<Unit filename="/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_01/lession_8_matrix_selflookAt.hpp">
+		<Unit filename="/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_01/lession_8_matrix_selflookAt.hpp">
 			<Option target="learnOpenGL_Clion"/>
 		</Unit>
-		<Unit filename="/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_02/lession_01_chapter2_light.hpp">
+		<Unit filename="/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_02/lession_01_chapter2_light.hpp">
 			<Option target="learnOpenGL_Clion"/>
 		</Unit>
-		<Unit filename="/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_02/lession_02_chapter2_pongLight.hpp">
+		<Unit filename="/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_02/lession_02_chapter2_pongLight.hpp">
 			<Option target="learnOpenGL_Clion"/>
 		</Unit>
-		<Unit filename="/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_02/lession_03_chapter2_Materials.hpp">
+		<Unit filename="/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_02/lession_03_chapter2_Materials.hpp">
 			<Option target="learnOpenGL_Clion"/>
 		</Unit>
-		<Unit filename="/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_02/lession_04_chapter2_LightMaps.hpp">
+		<Unit filename="/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_02/lession_04_chapter2_LightMaps.hpp">
 			<Option target="learnOpenGL_Clion"/>
 		</Unit>
-		<Unit filename="/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/chapter_02/lession_05_chapter2_Light.hpp">
+		<Unit filename="/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_02/lession_05_chapter2_Light.hpp">
 			<Option target="learnOpenGL_Clion"/>
 		</Unit>
-		<Unit filename="/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/src/sharderUtils/SharderClass.hpp">
+		<Unit filename="/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/chapter_02/lession_06_chapter2_MuplityLight.hpp">
 			<Option target="learnOpenGL_Clion"/>
 		</Unit>
-		<Unit filename="/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/CMakeLists.txt">
+		<Unit filename="/Users/lenkacc/Desktop/workSpace/Learn_openGL/src/sharderUtils/SharderClass.hpp">
+			<Option target="learnOpenGL_Clion"/>
+		</Unit>
+		<Unit filename="/Users/lenkacc/Desktop/workSpace/Learn_openGL/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

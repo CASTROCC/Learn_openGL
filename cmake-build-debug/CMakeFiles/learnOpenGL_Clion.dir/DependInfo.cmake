@@ -5,7 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/libs/glad.c" "/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/CMakeFiles/learnOpenGL_Clion.dir/libs/glad.c.o"
+  "/Users/lenkacc/Desktop/workSpace/Learn_openGL/libs/glad.c" "/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/CMakeFiles/learnOpenGL_Clion.dir/libs/glad.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 
@@ -14,7 +14,7 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
   "/usr/local/include"
   )
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/main.cpp" "/Users/lenkacc/Desktop/workSpace/learnOpenGL_Clion/cmake-build-debug/CMakeFiles/learnOpenGL_Clion.dir/main.cpp.o"
+  "/Users/lenkacc/Desktop/workSpace/Learn_openGL/main.cpp" "/Users/lenkacc/Desktop/workSpace/Learn_openGL/cmake-build-debug/CMakeFiles/learnOpenGL_Clion.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

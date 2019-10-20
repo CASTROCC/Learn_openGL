@@ -25,6 +25,7 @@ CMakeFiles/learnOpenGL_Clion.dir/main.cpp.o: ../src/chapter_02/lession_02_chapte
 CMakeFiles/learnOpenGL_Clion.dir/main.cpp.o: ../src/chapter_02/lession_03_chapter2_Materials.hpp
 CMakeFiles/learnOpenGL_Clion.dir/main.cpp.o: ../src/chapter_02/lession_04_chapter2_LightMaps.hpp
 CMakeFiles/learnOpenGL_Clion.dir/main.cpp.o: ../src/chapter_02/lession_05_chapter2_Light.hpp
+CMakeFiles/learnOpenGL_Clion.dir/main.cpp.o: ../src/chapter_02/lession_06_chapter2_MuplityLight.hpp
 CMakeFiles/learnOpenGL_Clion.dir/main.cpp.o: ../src/exercise/lession02_drawRectangle.hpp
 CMakeFiles/learnOpenGL_Clion.dir/main.cpp.o: ../src/sharderUtils/SharderClass.hpp
 CMakeFiles/learnOpenGL_Clion.dir/main.cpp.o: /usr/local/include/GLFW/glfw3.h
