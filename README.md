@@ -1,8 +1,3 @@
-```$xslt
-1. git clone git@github.com:lenkacc1210/Learn_openGL.git
-2. 使用clion打开项目，在Run->Edit Configurations中修改Working directory为当前src文件夹
-```
-
 ## 坐标系统
 **标准化设备坐标 （-1, 1); （引擎坐标-> 标准化坐标 -> 屏幕坐标） （标准化坐标转为屏幕坐标位于 视口阶段， 该阶段位于剪裁空间转屏幕空间之间**
 
@@ -202,4 +197,7 @@ flagColor             = color;
 ```
 着色器非常灵活，仅使用一些3D向量和可配置的变量就能够创造出惊人的图像
 ```
-
+```$xslt
+1. git clone git@github.com:lenkacc1210/Learn_openGL.git
+2. 使用clion打开项目，在Run->Edit Configurations中修改Working directory为当前src文件夹
+```
