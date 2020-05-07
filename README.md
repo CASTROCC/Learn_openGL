@@ -1,4 +1,4 @@
-最近在学习openGL[learn-openGL](https://learnopengl-cn.github.io/)相关的一些知识，整理了一些3D方面的知识点，以后没事的时候要多看看~
+<b>最近在学习openGL[learn-openGL](https://learnopengl-cn.github.io/)相关的一些知识，整理了一些3D方面的知识点。</b>
 
 ## 坐标系统
 - **标准化设备坐标 （-1, 1); （引擎坐标-> 标准化坐标 -> 屏幕坐标） （标准化坐标转为屏幕坐标位于 视口阶段， 该阶段位于剪裁空间转屏幕空间之间**
