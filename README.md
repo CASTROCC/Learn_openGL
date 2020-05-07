@@ -105,7 +105,7 @@ glm::vec3(0.0f, 1.0f, 0.0f); // 向上坐标
 * 偏航角(Yaw)，绕y轴旋转。
 * 滚转角(Roll)，绕z轴旋转。
 
-对于摄像机系统来说，我们只关心俯仰角和偏航角，不讨论滚转角。使用动态欧拉角在进行旋转的时候会造成<a href="https://zh.wikipedia.org/wiki/%E7%92%B0%E6%9E%B6%E9%8E%96%E5%AE%9A">[万向锁]问题，使用<a href="https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%85%83%E6%95%B8">[四元数]进行旋转可以解决万向锁问题。
+对于摄像机系统来说，我们只关心俯仰角和偏航角，不讨论滚转角。使用动态欧拉角在进行旋转的时候会造成<a href="https://zh.wikipedia.org/wiki/%E7%92%B0%E6%9E%B6%E9%8E%96%E5%AE%9A">[万向锁]</a>问题，使用<a href="https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%85%83%E6%95%B8">[四元数]</a>进行旋转可以解决万向锁问题。
 ## 光照
 ### 彭氏光照模型
 * 环境光<br>
